@@ -6,13 +6,13 @@
 
 
 
-## 一、综述 Survey
+## 一、Survey
 
-### 1.**Structure from motion综述** | Survey
+### 1.Structure from motion Survey
 
 A Survey of Structure from Motion
 
-### 2.**开源仓库推荐**|Open source repository
+### 2.Open source repository
 
 [[OpenSfM]](https://github.com/mapillary/OpenSfM)
 
